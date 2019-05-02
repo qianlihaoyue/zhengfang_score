@@ -2,7 +2,7 @@
 
 `git clone https://github.com/qianlihaoyue/zhengfang_score.git`
 
-`pip install -r requriements.txt`
+`pip install -r requirements.txt`
 
 <h2>Normal</h2>
 

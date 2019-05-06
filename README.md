@@ -1,3 +1,7 @@
+<h2>Function</h2>
+
+模拟登陆教务系统，验证码自动识别，爬取成绩并填入xls，然后自动打开
+
 <h2>Installation</h2>
 
 `git clone https://github.com/qianlihaoyue/zhengfang_score.git`
